@@ -14,3 +14,6 @@ https://stackoverflow.com/questions/75495403/django-returns-templatedoesnotexist
 - or will get error for SMTPSenderRefused
 
 Forget password cannot send email.
+
+django with postgres
+https://www.youtube.com/watch?v=3UEf_ns7ecs&t=30s
